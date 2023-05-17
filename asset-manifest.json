@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Virtual-Battery/static/css/main.c2f9f733.css",
+    "main.js": "/Virtual-Battery/static/js/main.1c5cba31.js",
+    "index.html": "/Virtual-Battery/index.html",
+    "main.c2f9f733.css.map": "/Virtual-Battery/static/css/main.c2f9f733.css.map",
+    "main.1c5cba31.js.map": "/Virtual-Battery/static/js/main.1c5cba31.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c2f9f733.css",
+    "static/js/main.1c5cba31.js"
+  ]
+}
